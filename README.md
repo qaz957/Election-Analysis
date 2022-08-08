@@ -1,15 +1,15 @@
 # Election-Analysis
 
-##Goals
+## Goals
 1. Calculate the number of votes cast
 2. Determine the percentage of votes per candidate
 3. Declare a winner
 
-##Resources
+## Resources
 -Data Source: election_results.csv
 -Software: Python, Visual Studio Code
 
-##Summary
+## Summary
 Analysis of the election data shows that the candidates:
 
 -Charles Casper Stockham received 23.0% of the vote(85,213)
@@ -19,3 +19,6 @@ Analysis of the election data shows that the candidates:
 In total, 369,711 votes had been cast.
 
 The winner is Dianna Degette, with a commanding 73.8% of the popular vote.
+
+## Challenges
+The challenges we faced here were related to parsing out the pertinent data from the election results. We count votes based on names given. We were able to count accuraately with some iterating for loops.
